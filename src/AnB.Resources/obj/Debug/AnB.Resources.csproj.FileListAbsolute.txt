@@ -1,0 +1,8 @@
+D:\My Documents\PROJECT\AnB\src\AnB.Resources\bin\Debug\AnB.Resources.dll
+D:\My Documents\PROJECT\AnB\src\AnB.Resources\bin\Debug\AnB.Resources.pdb
+D:\My Documents\PROJECT\AnB\src\AnB.Resources\obj\Debug\AnB.Resources.csprojResolveAssemblyReference.cache
+D:\My Documents\PROJECT\AnB\src\AnB.Resources\obj\Debug\AnB.Resources.Articles.resources
+D:\My Documents\PROJECT\AnB\src\AnB.Resources\obj\Debug\AnB.Resources.Global.resources
+D:\My Documents\PROJECT\AnB\src\AnB.Resources\obj\Debug\AnB.Resources.csproj.GenerateResource.Cache
+D:\My Documents\PROJECT\AnB\src\AnB.Resources\obj\Debug\AnB.Resources.dll
+D:\My Documents\PROJECT\AnB\src\AnB.Resources\obj\Debug\AnB.Resources.pdb

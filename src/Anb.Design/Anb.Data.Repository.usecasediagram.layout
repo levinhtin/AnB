@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<useCaseDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="Anb.Data.Repository">
+  <useCaseModelRootMoniker Id="8d9f184f-d15b-4a80-9ee6-4599146842df" />
+  <nestedChildShapes>
+    <useCaseShape Id="7ccbd3de-95a9-4832-9d5a-90c709b5a0d9" absoluteBounds="5, 1, 1.25, 0.875" customColor="238, 237, 131" heightOffset="0">
+      <useCaseMoniker Id="417f6003-6c87-45b8-91b6-e7019b9d5f5b" LastKnownName="Anb.Data.Repository" />
+      <relativeChildShapes />
+    </useCaseShape>
+  </nestedChildShapes>
+</useCaseDiagram>

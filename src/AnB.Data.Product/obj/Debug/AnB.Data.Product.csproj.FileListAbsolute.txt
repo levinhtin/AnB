@@ -1,0 +1,12 @@
+D:\My Documents\PROJECT\AnB\AnB.Data.Product\bin\Debug\AnB.Data.Product.dll.config
+D:\My Documents\PROJECT\AnB\AnB.Data.Product\bin\Debug\AnB.Data.Product.dll
+D:\My Documents\PROJECT\AnB\AnB.Data.Product\bin\Debug\AnB.Data.Product.pdb
+D:\My Documents\PROJECT\AnB\AnB.Data.Product\bin\Debug\EntityFramework.dll
+D:\My Documents\PROJECT\AnB\AnB.Data.Product\bin\Debug\EntityFramework.SqlServer.dll
+D:\My Documents\PROJECT\AnB\AnB.Data.Product\bin\Debug\EntityFramework.xml
+D:\My Documents\PROJECT\AnB\AnB.Data.Product\bin\Debug\EntityFramework.SqlServer.xml
+D:\My Documents\PROJECT\AnB\AnB.Data.Product\obj\Debug\AnB.Data.Product.csprojResolveAssemblyReference.cache
+D:\My Documents\PROJECT\AnB\AnB.Data.Product\obj\Debug\AnB.Data.Product.dll
+D:\My Documents\PROJECT\AnB\AnB.Data.Product\obj\Debug\AnB.Data.Product.pdb
+D:\My Documents\PROJECT\AnB\AnB.Data.Product\bin\Debug\AnB.Data.Repository.dll
+D:\My Documents\PROJECT\AnB\AnB.Data.Product\bin\Debug\AnB.Data.Repository.pdb

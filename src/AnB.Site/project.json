@@ -1,0 +1,54 @@
+{
+    /* Click to learn more about project.json  http://go.microsoft.com/fwlink/?LinkID=517074 */
+    "webroot": "wwwroot",
+    "version": "1.0.0-*",
+    "dependencies": {
+        //Server Implemenation for ASP.NET 5
+        "Microsoft.AspNet.Server.IIS": "1.0.0-beta3",
+        "Microsoft.AspNet.Diagnostics": "1.0.0-beta3",
+        //Core hosting infrastructure for ASP.NET 5
+        "Microsoft.AspNet.Hosting": "1.0.0-beta3",
+        // Server for hosting on OS X, Linux
+        "Kestrel": "1.0.0-beta3",
+        //new
+        "Microsoft.AspNet.Server.WebListener": "1.0.0-beta3",
+
+        "Microsoft.AspNet.Mvc": "6.0.0-beta3",
+        "Microsoft.AspNet.StaticFiles": "1.0.0-beta3",
+        "Microsoft.AspNet.Identity.EntityFramework": "3.0.0.0-beta3",
+        "Microsoft.Framework.Cache.Memory": "1.0.0-beta3",
+        "EntityFramework": "6.1.3.0",
+        "EntityFramework.SqlServer": "7.0.0-beta3",
+        "EntityFramework.InMemory": "7.0.0-beta3",
+
+        "Microsoft.Framework.DependencyInjection": "1.0.0-beta3",
+        "Microsoft.Framework.ConfigurationModel.Json": "1.0.0-beta3",
+        "AnB.Data.Articles": "1.0.0-*",
+        "AnB.Data.Ecommerce": "1.0.0-*"
+
+    },
+    "commands": {
+        "web ": "Microsoft.AspNet.Hosting --server Microsoft.AspNet.Server.WebListener --server.urls http://localhost:2990"
+    },
+
+    "frameworks": {
+        "aspnet50": {
+            "dependencies": {
+                //"AnB.Data.Product": "1.0.0-*"
+            }
+        },
+        "aspnetcore50": { }
+    },
+    "exclude": [
+        "wwwroot",
+        "node_modules",
+        "bower_components"
+    ],
+    "bundleExclude": [
+        "node_modules",
+        "bower_components",
+        "**.kproj",
+        "**.user",
+        "**.vspscc"
+    ]
+}

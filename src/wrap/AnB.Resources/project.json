@@ -1,0 +1,12 @@
+{
+  "version": "1.0.0-*",
+  "frameworks": {
+    "net46": {
+      "wrappedProject": "../../AnB.Resources/AnB.Resources.csproj",
+      "bin": {
+        "assembly": "../../AnB.Resources/obj/{configuration}/AnB.Resources.dll",
+        "pdb": "../../AnB.Resources/obj/{configuration}/AnB.Resources.pdb"
+      }
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "version": "1.0.0-*",
+  "frameworks": {
+    "net451": {
+      "wrappedProject": "../../AnB.Data.Repository/AnB.Data.Repository.csproj",
+      "bin": {
+        "assembly": "../../AnB.Data.Repository/obj/{configuration}/AnB.Data.Repository.dll",
+        "pdb": "../../AnB.Data.Repository/obj/{configuration}/AnB.Data.Repository.pdb"
+      },
+      "dependencies": {
+        "EntityFramework": "6.1.3"
+      }
+    }
+  }
+}

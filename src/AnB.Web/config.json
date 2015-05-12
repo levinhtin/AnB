@@ -1,0 +1,17 @@
+{
+    "Data": {
+        "DefaultConnection": {
+            "ConnectionString": "Server=./;Database=AnB;integrated security=True;"
+        }
+    },
+    "EntityFramework": {
+        "ArticlesContext": {
+            "DataStore": "EntityFramework.SqlServer",
+            "ConnectionString": "Data:DefaultConnection:ConnectionString"
+        },
+        "EcommerceContext": {
+            "DataStore" : "EntityFramework.SqlServer",
+            "ConnectionString": "Data:DefaultConnection:ConnectionString"
+        }
+    }
+}

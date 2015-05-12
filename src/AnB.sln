@@ -17,6 +17,8 @@ Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "AnB.Data.Ecommerce", "AnB.D
 EndProject
 Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "AnB.Web", "AnB.Web\AnB.Web.xproj", "{2A23F79D-1D7B-4F0F-8D5B-2011C613A5AB}"
 EndProject
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "AnB.Example", "AnB.Example\AnB.Example.xproj", "{EA8D984C-DC03-4E23-8CAB-77C8CCB9EB63}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{2A23F79D-1D7B-4F0F-8D5B-2011C613A5AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2A23F79D-1D7B-4F0F-8D5B-2011C613A5AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2A23F79D-1D7B-4F0F-8D5B-2011C613A5AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA8D984C-DC03-4E23-8CAB-77C8CCB9EB63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA8D984C-DC03-4E23-8CAB-77C8CCB9EB63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA8D984C-DC03-4E23-8CAB-77C8CCB9EB63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA8D984C-DC03-4E23-8CAB-77C8CCB9EB63}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -26,18 +26,10 @@ namespace AnB.Data.Ecommerce.Models
         /// <summary>
         /// 
         /// </summary>
-        public virtual ProductCategory ParentProductCategory { get; set; }
-        
-        /// <summary>
         /// 
-        /// </summary>
-        public ICollection<ProductCategoryMapping> ProductCategoryMappings { get; set; }
-
-        /// <summary>
-        /// 
-        /// </summary>
-        /// 
+        [StringLength(200)]
         public string ImageUrl { get; set; }
+        [StringLength(200)]
         public string ImageUrlSmall { get; set; }        
         public int CreatedByUserId { get; set; }
         public DateTime CreatedOnDate { get; set; }
@@ -47,5 +39,14 @@ namespace AnB.Data.Ecommerce.Models
         public bool IsDeleted { get; set; }
         public int OrderNumber { get; set; }
         public virtual ICollection<ProductCategory_Content> Contents { get; set; }
+        /// <summary>
+        /// 
+        /// </summary>
+        public virtual ProductCategory ParentProductCategory { get; set; }
+
+        /// <summary>
+        /// 
+        /// </summary>
+        public virtual ICollection<ProductCategoryMapping> ProductCategoryMappings { get; set; }
     }
 }
